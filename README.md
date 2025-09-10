@@ -4,6 +4,7 @@ Repository for storing and sharing my Kaggle notebooks and machine learning reso
 ## ML models
 - Random Forest Classifier
 - Gradient Boosting
+- Ridge
 
 ## Loss functions
 - Mean Squared Error (MSE)
